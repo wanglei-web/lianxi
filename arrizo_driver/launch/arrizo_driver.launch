@@ -1,0 +1,12 @@
+<!-- -->
+<launch>
+
+	<node name="base_Control" pkg="arrizo_driver" type="base_Control" output="screen">
+	</node>
+
+	<node name="key_Control" pkg="arrizo_driver" type="key_Control" output="screen">
+	</node>
+	
+	<machine name="wl" address="wl-address" env-loader="/devel/setup.bash" user="wl" password="998769"/>
+
+</launch>

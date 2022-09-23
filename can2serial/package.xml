@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>can2serial</name>
+  <version>0.0.0</version>
+  <description>The can2serial package</description>
+
+  <maintainer email="castiel_liu@outlook.com">liu shuaipeng</maintainer>
+  <license>TODO</license>
+  <author email="castiel_liu@outlook.com">liu shuaipeng</author> 
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <test_depend>boost</test_depend>
+  
+  <build_depend>serial</build_depend>
+  <build_export_depend>serial</build_export_depend>
+  <exec_depend>serial</exec_depend>
+
+
+</package>
