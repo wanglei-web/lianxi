@@ -27,6 +27,9 @@
 	0x2: 自动驾驶模式
 */
 
+hhfh
+
+gterter
 
 
 #define ID_STATE_can3			   0x206
