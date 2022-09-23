@@ -27,6 +27,7 @@
 	0x2: 自动驾驶模式
 */
 
+sfdsf
 
 #define ID_STATE_can3			   0x206
 #define ID_CMD_can3			       0x88
